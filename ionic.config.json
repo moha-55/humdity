@@ -1,0 +1,8 @@
+{
+  "name": "Humdity",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "b1d1accb"
+}

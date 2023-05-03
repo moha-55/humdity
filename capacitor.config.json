@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Humdity",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
